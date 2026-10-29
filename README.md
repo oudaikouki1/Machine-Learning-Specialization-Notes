@@ -26,6 +26,13 @@ Everything here is written in my own words. No course slides, videos, or graded 
 
 ---
 
+### Notes and Summaries 
+1. Supervised Machine Learning - Regression and Classification : 
+    1. Week 1 - Introduction to Machine Learning : 
+        1. Overview of Machine Learning :  
+            * Welcome to Machine Learning [Notes](./course01-supervised-machine-learning-regression-and-classification/week01-introduction-to-machine-learning/01-overview-of-machine-learning/01-wlecome-to-machine-learning.md)
+            * Applications of Machine Learning [Notes](./course01-supervised-machine-learning-regression-and-classification/week01-introduction-to-machine-learning/01-overview-of-machine-learning/02-applications-of-machine-learning.md) 
+
 ## 🎯 Goals
 
 - Understand the math behind each algorithm, not just the API calls.
