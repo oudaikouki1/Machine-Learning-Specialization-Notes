@@ -32,6 +32,8 @@ Everything here is written in my own words. No course slides, videos, or graded 
         1. Overview of Machine Learning :  
             * Welcome to Machine Learning [Notes](./course01-supervised-machine-learning-regression-and-classification/week01-introduction-to-machine-learning/01-overview-of-machine-learning/01-wlecome-to-machine-learning.md)
             * Applications of Machine Learning [Notes](./course01-supervised-machine-learning-regression-and-classification/week01-introduction-to-machine-learning/01-overview-of-machine-learning/02-applications-of-machine-learning.md) 
+        2. Supervised vs. Unsupervised Learning : 
+            * What is machine learning [Notes](./course01-supervised-machine-learning-regression-and-classification/week01-introduction-to-machine-learning/02-supervised-vs-unsupervised-learning/notes/01-what-is-machine-learning.md)
 
 ## 🎯 Goals
 
