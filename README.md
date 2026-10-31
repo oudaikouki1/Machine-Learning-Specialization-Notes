@@ -35,6 +35,7 @@ Everything here is written in my own words. No course slides, videos, or graded 
         2. Supervised vs. Unsupervised Learning : 
             * What is machine learning [Notes](./course01-supervised-machine-learning-regression-and-classification/week01-introduction-to-machine-learning/02-supervised-vs-unsupervised-learning/notes/01-what-is-machine-learning.md)
             * Supervised learning, part 1 [Notes](./course01-supervised-machine-learning-regression-and-classification/week01-introduction-to-machine-learning/02-supervised-vs-unsupervised-learning/notes/02-supervised-learning-part-01.md)
+            * Supervised Learning, Part 2 [Notes](./course01-supervised-machine-learning-regression-and-classification/week01-introduction-to-machine-learning/02-supervised-vs-unsupervised-learning/notes/03-supervised-learning-part-02.md)
 
 ## 🎯 Goals
 
